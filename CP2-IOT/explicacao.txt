@@ -1,0 +1,26 @@
+CP_02 - IOT / AI
+
+KAREN MARTINS SILVEIRA - RM 85282;
+
+EXERCÍCIO 01)
+CONEXÃO ENTRE DOIS ARDUÍNOS:
+
+Comunicação entre portas com3 no arduíno A e com4 no arduíno B, ao pressionar o botão do arduíno A, ele libera o sinal 
+e a lâmpada acende no arduíno B.
+
+EXERCÍCIO O2)
+JOGO DA MEMÓRIA:
+
+Acrescentado mais 3 lâmpadas no arduíno. Inicialmente a lógica faz com que todas as lampadas acendam juntas.
+No primeiro nível do jogo, acrescentado 3 números aleatórios para piscar as lâmpadas e o nível aumenta de dois em dois pulsos de luz.
+O jogo termina no nível 06. Caso o jogador erre a sequência, a tela mostra "Game Over".
+
+EXERCÍCIO 03)
+CAFETEIRA AUTOMATIZADA:
+
+O primeiro sensor detecta o tamanho da xícara através do potenciômetro: caso ela seja menor que 20cm, a máquina servirá o café.
+Caso seja maior, ela não serve. 
+O segundo sensor detecta a distancia da mão do usuário, também através do potenciômetro: caso a mão esteja próxima, ele servirá um café longo, 
+se estiver distante, servirá um café curto.
+Caso apenas a xícara chegue à 20cm, o café será servido longo.
+Os potenciômetros transformam a voltagens em centímetros.
